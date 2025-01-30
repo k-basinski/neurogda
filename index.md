@@ -1,4 +1,6 @@
-# NeuroGDA
+---
+title: NeuroGDA
+---
 
 ## Next seminar
 
