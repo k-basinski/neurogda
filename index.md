@@ -1,5 +1,5 @@
 ---
-title: null
+title: ""
 ---
 
 ![](assets/img/neurogda_logo.png)
