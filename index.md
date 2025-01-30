@@ -1,3 +1,6 @@
+---
+title: null
+---
 
 ![](assets/img/neurogda_logo.png)
 
