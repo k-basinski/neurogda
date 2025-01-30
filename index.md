@@ -1,11 +1,11 @@
----
-title: NeuroGDA
----
+
+![](neurogda_logo.png)
 
 ## Next seminar
 
-- February 5th 2025, 14:30 - 15:30
-- Room 2/DD/03, Centrum Medycyny Inwazyjnej (CMI), Uniwersyteckie Centrum Kliniczne, Smoluchowskiego 17 [look up on Google Maps](https://maps.app.goo.gl/tLA2EAiwJDySVomu9)
+**When:** February 5th 2025, 14:30 - 15:30
+
+**Where** Room 2/DD/03, Centrum Medycyny Inwazyjnej (CMI), Uniwersyteckie Centrum Kliniczne, Smoluchowskiego 17 [look up on Google Maps](https://maps.app.goo.gl/tLA2EAiwJDySVomu9)
 
 #### Agenda
 
@@ -15,7 +15,7 @@ title: NeuroGDA
 
 **Michal Kucewicz** is the founder of the Brain & Mind Electrophysiology (BME) lab at the BioTechMed Center of the Gdansk University of Technology in Poland. BME lab focuses on studying the brain activities underlying memory and higher cognitive functions with technologies for intracranial multi-electrode recordings and stimulation mainly in epilepsy patients. The goal of this research is to discover the electrophysiological substrates of engrams and the human mind to develop neuromodulation therapies for restoring these in epilepsy, dementias, psychiatric and other brain diseases.
 
-# NeuroGDA
+# What is it?
 
 NeuroGDA is an initiative to bring together and foster collaboration between people doing research in all areas of neuroscience within the Tricity area. Our plan is to establish a series of monthly seminars where people could present their work, meet colleagues from different departments and institutions, network and share ideas.
 
@@ -29,5 +29,5 @@ Neuroscience is an interdisciplinary endeavor, bringing together researchers fro
 Everyone is invited! The seminars are open to the public. That being said, we wish for these meetings to be useful to working researchers, so the talks would necessarily be more technical (as in scientific conferences).
 
 ## Who’s behind it?
-The idea for NeuroGDA came from a discussion between Ola Rutkowska and Krzysztof Basiński at the Medical University of Gdańsk. However, we would gladly share the organizational burden with other people. If you wish to help us out (especially if you’re at another university), feel free to contact us!
+The idea for NeuroGDA came from a discussion between Ola Rutkowska[rutkowskalab.gumed.edu.pl] and [Krzysztof Basiński](anl.gumed.edu.pl) at the Medical University of Gdańsk. However, we would gladly share the organizational burden with other people. If you wish to help us out (especially if you’re at another university), feel free to contact us!
 
