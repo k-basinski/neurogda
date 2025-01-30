@@ -3,11 +3,15 @@
 
 ## Next seminar
 
-**When:** February 5th 2025, 14:30 - 15:30
+### When
 
-**Where** Room 2/DD/03, Centrum Medycyny Inwazyjnej (CMI), Uniwersyteckie Centrum Kliniczne, Smoluchowskiego 17 [look up on Google Maps](https://maps.app.goo.gl/tLA2EAiwJDySVomu9)
+February 5th 2025, 14:30 - 15:30
 
-#### Agenda
+### Where 
+
+Room 2/DD/03, Centrum Medycyny Inwazyjnej (CMI), Uniwersyteckie Centrum Kliniczne, Smoluchowskiego 17 [look up on Google Maps](https://maps.app.goo.gl/tLA2EAiwJDySVomu9)
+
+### Agenda
 
 - Introduction by the organisers
 - Lab presentation – Michał Kucewicz, [Brain and Mind Electrophysiology Laboratory](https://brainmindlab.com), Gdańsk Tech
