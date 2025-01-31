@@ -1,7 +1,3 @@
----
-title: ""
----
-
 ![](assets/img/neurogda_logo.png)
 
 ## Next seminar
