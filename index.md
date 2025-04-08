@@ -1,5 +1,6 @@
 ![](assets/img/neurogda_logo.png)
 
+[What is NeuroGDA?](whatis) | [Previous editions](previous)
 
 ## Next seminar: 3rd edition
 
