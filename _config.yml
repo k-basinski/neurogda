@@ -2,4 +2,4 @@ theme: minima
 title: NeuroGDA
 description: A website for the NeuroGDA seminar series
 author: Ola Rutkowska & Krzysztof Basiński
-header_pages: ['index.md','previous.md']
+header_pages: ['whatis.md','previous.md', 'contribute.md']
