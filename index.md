@@ -1,6 +1,7 @@
 ![](assets/img/neurogda_logo.png)
 
-## Next seminar
+
+## Next seminar: 3rd edition
 
 ### When
 
