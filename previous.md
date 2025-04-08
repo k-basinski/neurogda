@@ -1,3 +1,7 @@
+---
+title: "Previous editions"
+---
+
 ![](assets/img/neurogda_logo.png)
 
 ## Second edition
