@@ -1,10 +1,6 @@
----
-title: "NeuroGDA"
----
-
 ![](assets/img/neurogda_logo.png)
 
-## Next seminar: 3rd edition
+## Next seminar
 
 ### When
 
