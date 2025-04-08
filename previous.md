@@ -1,5 +1,25 @@
 ![](assets/img/neurogda_logo.png)
 
+## Second edition
+
+### When
+
+March 19th 2025, 14:30 - 15:30
+
+### Where 
+
+Room 2/DD/03, Centrum Medycyny Inwazyjnej (CMI), Uniwersyteckie Centrum Kliniczne, Smoluchowskiego 17 [look up on Google Maps](https://maps.app.goo.gl/tLA2EAiwJDySVomu9)
+
+### Agenda
+
+- **Grzegorz Węgrzyn** - _"Autophagy stimulation as a potential method for treatment of neurodegeneration diseases"_
+- **Krzysztof Pietruczuk** - _"Psychoneuroimmunology and neuroinformatics in studying mood disorders: from inflammation to neurophysiological modelling"_
+
+**Grzegorz Węgrzyn** is a professor of biological sciences, Corresponding member of Polish Academy of Sciences, and Polish Academy of Learning, Deputy President of the Council for Scientific Excellence. Research in genetics and molecular biology. Author of over 500 scientific publications, cited in the literature over 13,000 times. Supervisor of 62 doctoral theses. Winner of national and international scientific awards.
+
+**Krzysztof Pietruczuk** is a researcher combining neuroscience, immunology and mathematical modelling in the context of mood disorders and neurodegenerative diseases. His work focuses on the influence of the immune system on the pathogenesis of depression and bipolar affective disorder, with a particular focus on mechanisms of drug resistance and delayed effects of antidepressants. He is currently directing the newly established Laboratory of Psychoneuroimmunology and Neuroinformatics.
+
+
 ## First edition
 
 ### When
