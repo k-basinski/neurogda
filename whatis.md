@@ -19,3 +19,4 @@ Everyone is invited! The seminars are open to the public. That being said, we wi
 ## Who’s behind it?
 The idea for NeuroGDA came from a discussion between [Ola Rutkowska](https://rutkowskalab.gumed.edu.pl) and [Krzysztof Basiński](https://anl.gumed.edu.pl) at the Medical University of Gdańsk. However, we would gladly share the organizational burden with other people. If you wish to help us out (especially if you’re at another university), feel free to contact us!
 
+
