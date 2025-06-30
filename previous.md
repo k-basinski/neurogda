@@ -2,6 +2,12 @@
 title: "Previous editions"
 ---
 
+## Fourth edition
+
+![](assets/img/4ed_programme1.png)
+
+![](assets/img/4ed_programme2.png)
+
 ## Third edition
 
 April 14th 2025, 14:30, Room 2/DD/03, Centrum Medycyny Inwazyjnej (CMI), Uniwersyteckie Centrum Kliniczne, Smoluchowskiego 17
